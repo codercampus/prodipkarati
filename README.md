@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @prodipkarati
 - 👀 I’m interested in Cryptocurrency
 - 🌱 I’m currently learning Trading
 - 💞️ I’m looking to collaborate on .. 
